@@ -19,11 +19,11 @@ Demonstrar a aplicação do algoritmo **Bucket Sort** em um caso prático, onde 
 
 ## Contribuintes
 
-- [Higor Valuar Bailona]
-- [Iara Martins Ferro]
-- [Ana Paula Gomes Miranda]
-- [Vitória Alves]
-- [Fabriny Custódio]
+- Higor Valuar Bailona
+- Iara Martins Ferro
+- Ana Paula Gomes Miranda
+- Vitória Alves
+- Fabriny Custódio
 
 ## Licença
 
